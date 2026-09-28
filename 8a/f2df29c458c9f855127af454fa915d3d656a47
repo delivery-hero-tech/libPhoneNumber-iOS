@@ -1,0 +1,14 @@
+libPhoneNumber.xcodeproj/project.pbxproj
+  h_0f19d15cb4e1cd 865,911,1021,1056,1099,1149,1194,1239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "8af2df29c458c9f855127af454fa915d3d656a47",
+  "prompts": {},
+  "humans": {
+    "h_0f19d15cb4e1cd": {
+      "author": "Sergii Sukhanov <sergii.sukhanov@deliveryhero.com>"
+    }
+  }
+}
